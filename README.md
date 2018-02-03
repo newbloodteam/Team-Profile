@@ -1,5 +1,3 @@
-# Team Profile
-
-https://newbloodteam.github.io/
+# Team Profile https://newbloodteam.github.io/
 
 Public content
